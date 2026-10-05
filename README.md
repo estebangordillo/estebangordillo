@@ -33,6 +33,7 @@
 **Backend y bases de datos**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javalin](https://img.shields.io/badge/Javalin-0B7FC7?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,6 +58,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [**panyuca**](https://github.com/estebangordillo/panyuca) | Sistema web de gestión financiera para Panyuca, un emprendimiento real: controla sus ingresos y gastos desde un solo lugar. | Java · Javalin · PostgreSQL · HTML/CSS/JS |
 | [**matador-house**](https://github.com/estebangordillo/matador-house) · [demo](https://matador-house.vercel.app) | Tienda virtual de videojuegos PS4/PS5, con frontend y backend separados y contenedores Docker. | TypeScript · Docker · Vercel |
 | [**matador-backend**](https://github.com/estebangordillo/matador-backend) | API backend de la tienda, lista para correr en Docker. | Java · Maven · Docker |
 | [**ValidacionSoftwareApp**](https://github.com/estebangordillo/ValidacionSoftwareApp) | Estrategia de validación con pirámide de pruebas para un módulo de cálculo de envíos, con CI automático. | Java 17 · JUnit 5 · GitHub Actions |
